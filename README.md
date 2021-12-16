@@ -1,7 +1,7 @@
 # devoir-git
 #Gabrielle Berrada
 #
-#
+#Jeanne Bessoud
 #
 how_many_people = 3
 
