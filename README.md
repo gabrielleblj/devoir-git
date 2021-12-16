@@ -1,6 +1,6 @@
 # devoir-git
 Nom : Gabrielle Berrada
-Nom :
-Nom :Jeanne Bessoud
+Nom : Xindong XU
+Nom : Jeanne Bessoud
 
 
